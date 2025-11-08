@@ -1,4 +1,5 @@
-# 👋 Hello, I'm an AI & Full Stack Developer  
+# 👋 Hello, I'm an AI & Full Stack Developer  ![Profile Views](https://komarev.com/ghpvc/?username=aidev1008&color=blue)
+
 Transforming ideas into intelligent, automated, and scalable web applications.
 
 I work with cutting-edge technologies to help businesses **build smarter, faster, and more connected products**.  
